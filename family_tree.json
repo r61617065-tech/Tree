@@ -1,9 +1,9 @@
 {
   "meta": {"title":"Bhrigu (Badvaliya) Vansh Vriksha","hindititle":"भृगु (बड़वलिया) वंश वृक्ष","subtitle":"The Tree","hindisubtitle":"वंश वृक्ष","root_id":1},
   "members": [
-    {"id":1,"name":"Gajadhar Singh","hindiname":"गजाधर सिंह","gender":"M","death":"","children":[2,3,4]},
-    {"id":2,"name":"Adit Singh","hindiname":"आदित सिंह","gender":"M","parent":1,"birth":"","death":"","children":[175,176,177]},
-    {"id":3,"name":"Sadho Singh","hindiname":"साधो सिंह","gender":"M","parent":1,"wife":"Sudeshvari Singh","hindiwife":"सुदेश्वरी सिंह","birth":"","death":"","children":[5,6]},
+    {"id":1,"name":"Gajadhar Singh","hindiname":"गजाधर सिंह","gender":"M","death":"","children":[2,3,4],"realname":"Gajādhara Siṃha","wrongname":"Gajadhar Singh"},
+    {"id":2,"name":"Adit Singh","hindiname":"आदित सिंह","gender":"M","parent":1,"death":"","children":[175,176,177],"realname":"Ādita Siṃha","wrongname":"Adit Singh"},
+    {"id":3,"name":"Sadho Singh","hindiname":"साधो सिंह","gender":"M","parent":1,"wife":"Sudeshvari Singh","hindiwife":"सुदेश्वरी सिंह","death":"","children":[5,6],"realname":"Sādho Siṃha","wrongname":"Sadho Singh"},
     {"id":4,"name":"Bhagvat Singh","hindiname":"भागवत सिंह","gender":"M","parent":1,"birth":"","death":"","children":[7,8,9]},
     {"id":5,"name":"Vrindavan Singh","hindiname":"वृंदावन सिंह","gender":"M","parent":3,"death":"","children":[10,11,12,13,14,15],"alias":"Hingoo Singh","hindialias":"हिंगू सिंह"},
     {"id":6,"name":"Mathura Singh","hindiname":"मथुरा सिंह","gender":"M","parent":3,"death":"","children":[16,17,18,19,20],"alias":"Gaga Singh","hindialias":"गागा सिंह"},
@@ -30,7 +30,7 @@
     {"id":27,"name":"Vimla Singh","hindiname":"विमला सिंह","gender":"F","parent":8,"birth":"","death":""},
     {"id":28,"name":"Ramsurat Singh","hindiname":"रामसूरत सिंह","gender":"M","parent":9,"alias":"Thanedar Singh","hindialias":"थानेदार सिंह","birth":"","death":"","wife":"","hindiwife":"","children":[73,74]},
     {"id":29,"name":"Chandrabhan Singh","hindiname":"चंद्रभान सिंह","gender":"M","parent":9,"alias":"Sipahee Singh, Nanhkoo","hindialias":"सिपाही सिंह, नन्हकू","birth":"","death":"","note":"संतान नहीं"},
-    {"id":30,"name":"Ambareesh Singh","hindiname":"अंबरीष सिंह","gender":"M","parent":12,"birth":"","wife":"Uma Singh","hindiwife":"उमा सिंह","children":[75,76,77]},
+    {"id":30,"name":"Ambreesh Singh","hindiname":"अंबरीष सिंह","gender":"M","parent":12,"wife":"Uma Singh","hindiwife":"उमा सिंह","children":[75,76,77],"realname":"Ambarīśa Siṃha","wrongname":"Ambrish Singh"},
     {"id":31,"name":"Arvind Singh","hindiname":"अरविन्द सिंह","gender":"M","parent":12,"birth":"","wife":"Rashmi Singh, Gudiya","hindiwife":"रश्मि सिंह (गुड़िया)","children":[78,79]},
     {"id":32,"name":"Vijay Shankar Singh","hindiname":"विजय शंकर सिंह","gender":"M","parent":12,"birth":"","wife":"Seema Singh","hindiwife":"सीमा सिंह","children":[80,81]},
     {"id":33,"name":"Archana Singh","hindiname":"अर्चना सिंह","gender":"F","parent":12,"alias":"Mala Singh","hindialias":"माला सिंह","birth":"","husband":"Ambika Singh","hindihusband":"अम्बिका सिंह","children":[82,83,84]},
