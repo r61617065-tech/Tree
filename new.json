@@ -1,5 +1,4 @@
 {
-  "latest_version": 2,
-  "update_details": "New features are added. Click to download from GitHub.",
-  "popup_message": "- Added multiple wife support\n- Fixed OnePlus glitch\n- UI Improvements"
+  "version": "1.0.1",
+  "message": "Naye Update me kya mila:\n\n- Wife Add karne ka system lag gaya\n- OnePlus ka screen stuck glitch theek ho gaya\n- Design me thode sudhaar hain\n\nAbhi isse download karein!"
 }
