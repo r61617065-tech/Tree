@@ -134,7 +134,7 @@
     {"id":131,"name":"Priya Singh","hindiname":"प्रिया सिंह","gender":"F","parent":51},
     {"id":132,"name":"Neha Singh","hindiname":"नेहा सिंह","gender":"F","parent":51},
     {"id":133,"name":"Shubhra Singh","gender":"F","hindiname":"शुभ्रा सिंह","parent":101},
-    {"id":134,"name":"Yateendra Singh","hindiname":"यतींद्र सिंह","gender":"M","parent":52,"alias":"Lakee Singh","hindialias":"लकी सिंह","birth":"","wife":"Neha Singh","hindiwife":"नेहा सिंह","children":[174]},
+    {"id":134,"name":"Yateendra Singh","hindiname":"यतींद्र सिंह","gender":"M","parent":52,"alias":"Lakee Singh","hindialias":"लकी सिंह","birth":"05/08/1986","wife":"Neha Singh","hindiwife":"नेहा सिंह","children":[174],"realwife":"","wrongwife":""},
     {"id":135,"name":"Sachindra Singh","hindiname":"सचिंद्र सिंह","gender":"M","parent":52,"alias":"Goloo Singh","hindialias":"गोलू सिंह","wife":"Rikshita Singh","hindiwife":"रिक्षिता सिंह"},
     {"id":136,"name":"Tripuraree Shankar Singh","hindiname":"त्रिपुरारी शंकर सिंह","gender":"M","parent":52,"alias":"Badaroo Singh","hindialias":"बदरू सिंह","birth":"14/04/1992"},
     {"id":137,"name":"Ujval Singh","hindiname":"उज्ज्वल सिंह","gender":"M","parent":53,"birth":"22/04/1997"},
