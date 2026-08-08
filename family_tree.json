@@ -143,7 +143,7 @@
     {"id":140,"name":"Anupama Singh","hindiname":"अनुपमा सिंह","gender":"F","parent":54,"alias":"Mansee Singh","hindialias":"मानसी सिंह","birth":"05/03/2002","wrongname":"Anupma Singh","wrongalias":"Mansi Singh"},
     {"id":141,"name":"Manas Singh","hindiname":"मानस सिंह","gender":"M","parent":54,"birth":"02/02/2003"},
     {"id":142,"name":"Mahima Singh","hindiname":"महिमा सिंह","gender":"F","parent":54,"birth":"24/07/2006"},
-    {"id":143,"name":"Arpit Singh","hindiname":"अर्पित सिंह","gender":"M","parent":54,"birth":"13/04/2009","star":true,"note":"App Maker ⭐"},
+    {"id":143,"name":"Arpit Singh","hindiname":"अर्पित सिंह","gender":"M","parent":54,"birth":"13/04/2010","star":true,"note":"App Maker ⭐","hindinote":"अनुप्रयोग निर्माता ⭐"},
     {"id":144,"name":"Vivek Singh","hindiname":"विवेक सिंह","gender":"M","parent":54,"birth":"22/11/2011"},
     {"id":145,"name":"Aishvarya Singh","hindiname":"ऐश्वर्य सिंह","gender":"M","parent":55,"alias":"Lalit Singh","hindialias":"ललित सिंह","birth":"26/04/2013"},
     {"id":146,"name":"Rajlakshmee Singh","hindiname":"राजलक्ष्मी सिंह","gender":"F","parent":55,"alias":"Pankhudee Singh","hindialias":"पंखुड़ी सिंह","birth":"03/09/2021"},
