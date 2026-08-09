@@ -1,4 +1,8 @@
 {
   "version": "1.0.1",
-  "message": "Naye Update me kya mila:\n\n- Wife Add karne ka system lag gaya\n- OnePlus ka screen stuck glitch theek ho gaya\n- Design me thode sudhaar hain\n\nAbhi isse download karein!"
+  "panchang_version": "1.0.0",
+  "Panchnagrq": 0,
+  "message": "नया अपडेट आ गया है! 🎉\n\n✨ अब आप सेटिंग्स में अपना ज्योतिषीय विवरण (राशि, नक्षत्र, इष्ट देवता आदि) देख सकते हैं।\n🔔 ऑटोमैटिक इवेंट नोटिफिकेशन जोड़ा गया।\n👨‍👩‍👧 पत्नी/पति के लिए नया लॉगिन सिस्टम।",
+  "tree_url": "https://github.com/r61617065-tech/Tree/releases/download/v1.0.1/app-release.apk",
+  "panchang_url": "https://github.com/r61617065-tech/Panchnag/releases/download/v1.0.0/app-release.apk"
 }
