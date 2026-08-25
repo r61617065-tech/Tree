@@ -170,7 +170,7 @@
     { "id": 163, "name": "Sreeja Singh", "hindiname": "श्रीजा सिंह", "realname": "Śrījā Siṃhā", "wrongname": "Srija Singh", "birth": "", "gender": "F", "parent": 75 },
     { "id": 164, "name": "Sharmishtha Singh", "hindiname": "शर्मिष्ठा सिंह", "realname": "Śarmiṣṭhā Siṃhā", "wrongname": "Sharmishtha Singh", "birth": "", "gender": "F", "parent": 76 },
     { "id": 165, "name": "Aniket Singh", "hindiname": "अनिकेत सिंह", "realname": "Aniketa Siṃha", "wrongname": "Aniket Singh", "alias": "Narsingh Singh", "hindialias": "नरसिंह सिंह", "realalias": "Narasiṃha Siṃha", "wrongalias": "Narsingh Singh", "birth": "04\/08\/2006", "gender": "M", "parent": 76 },
-    { "id": 166, "name": "Krishna Singh", "hindiname": "कृष्णा सिंह", "realname": "Kṛṣṇā Siṃhā", "wrongname": "Krishna Singh", "birth": "", "gender": "F", "parent": 77 },
+    { "id": 166, "name": "Krishna Singh", "hindiname": "कृष्णा सिंह", "realname": "Kṛṣṇā Siṃhā", "wrongname": "Krishna Singh", "birth": "25\/08\/####", "gender": "F", "parent": 77 },
     { "id": 167, "name": "Kashee Singh", "hindiname": "काशी सिंह", "realname": "Kāśī Siṃhā", "wrongname": "Kashi Singh", "birth": "", "gender": "F", "parent": 77 },
     { "id": 168, "name": "Sheetoo Singh", "hindiname": "शीटू सिंह", "realname": "Śīṭū Siṃha", "wrongname": "Shitu Singh", "birth": "", "gender": "M", "parent": 107 },
     { "id": 169, "name": "Vansh Singh", "hindiname": "वंश सिंह", "realname": "Vaṃśa Siṃha", "wrongname": "Vansh Singh", "birth": "", "gender": "M", "parent": 107 },
