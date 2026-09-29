@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Bhrigu (Badvaliya) Vansh Vriksha",
-    "hindititle": "भृगु (बड़वलिया) वंश वृक्ष",
+    "title": "Bhrigu (Badhvaliya) Vansh Vriksha",
+    "hindititle": "भृगु (बढ़वलिया) वंश वृक्ष",
     "root_id": 1
   },
   "members": [
@@ -20,7 +20,7 @@
     { "id": 13, "name": "Bhairav Singh", "hindiname": "भैरव सिंह", "realname": "Bhairava Siṃha", "wrongname": "Bhairav Singh", "wife": "Shanti Singh", "hindiwife": "शांति सिंह", "realwife": "Śānti Siṃhā", "wrongwife": "Shanti Singh", "birth": "", "death": "", "gender": "M", "parent": 5, "children": [36,37,38,39] },
     { "id": 14, "name": "Kanti Singh", "hindiname": "कांति सिंह", "realname": "Kānti Siṃhā", "wrongname": "Kanti Singh", "birth": "", "death": "", "gender": "F", "parent": 5 },
     { "id": 15, "name": "Gulabee Singh", "hindiname": "गुलाबी सिंह", "realname": "Gulābī Siṃhā", "wrongname": "Gulabi Singh", "death": "", "gender": "F", "parent": 5 },
-    { "id": 16, "name": "Hridaynarayan Singh", "hindiname": "हृदयनारायण सिंह", "realname": "Hṛdayanārāyaṇa Siṃha", "wrongname": "Hridyanarayan Singh", "wife": ["Jankee Singh","Kesharee Singh"], "hindiwife": ["जानकी सिंह","केशरी सिंह"], "realwife": ["Jānakī Siṃhā","Keśarī Siṃhā"], "wrongwife": ["Janaki Singh","Keshari Singh"], "death": "", "gender": "M", "parent": 6, "children": [40,41,42,43,44,45,46,48,47] },
+    { "id": 16, "name": "Hridaynarayan Singh", "hindiname": "हृदयनारायण सिंह", "realname": "Hṛdayanārāyaṇa Siṃha", "wrongname": "Hridyanarayan Singh", "alias": "Jay Kishor Singh", "hindialias": "जय किशोर सिंह", "realalias": "Jaya Kiśora Siṃha", "wrongalias": "Jay Kishor Singh", "wife": ["Jankee Singh","Kesharee Singh"], "hindiwife": ["जानकी सिंह","केशरी सिंह"], "realwife": ["Jānakī Siṃhā","Keśarī Siṃhā"], "wrongwife": ["Janaki Singh","Keshari Singh"], "death": "", "gender": "M", "parent": 6, "children": [40,41,42,43,44,45,46,48,47] },
     { "id": 17, "name": "Sankatha Singh", "hindiname": "संकठा सिंह", "realname": "Saṅkaṭhā Siṃha", "wrongname": "Sankatha Singh", "alias": "Addan Singh", "hindialias": "अद्दन सिंह", "realalias": "Addana Siṃha", "wrongalias": "Addan Singh", "wife": "Mungeshvaree Singh", "hindiwife": "मुंगेश्वरी सिंह", "realwife": "Muṅgeśvarī Siṃhā", "wrongwife": "Mungeshwari Singh", "birth": "", "death": "", "gender": "M", "parent": 6, "children": [49,50,51] },
     { "id": 18, "name": "Raghavendra Singh", "hindiname": "राघवेन्द्र सिंह", "realname": "Rāghavendra Siṃha", "wrongname": "Raghvendra Singh", "alias": "Bhola Singh", "realalias": "Bholā Siṃha", "wrongalias": "Bhola Singh", "wife": ["Avadhrajee Singh","Shailkumaree Singh","Rajeshvaree Singh"], "hindiwife": ["अवधराजी सिंह","शैलकुमारी सिंह","राजेश्वरी सिंह"], "realwife": ["Avadharājī Siṃhā","Śailakumārī Siṃhā","Rājeśvarī Siṃhā"], "wrongwife": ["Awadhraji Singh","Shailkumari Singh","Rajeshwari Singh"], "death": "09\/03\/2019", "gender": "M", "parent": 6, "children": [52,53,54,55,56,57,58,59,60] },
     { "id": 19, "name": "Krishnavatee Singh", "hindiname": "कृष्णावती सिंह", "realname": "Kṛṣṇāvatī Siṃhā", "wrongname": "Krishnavati Singh", "husband": "", "hindihusband": "", "birth": "", "death": "", "gender": "F", "parent": 6, "children": [61,62,92,192,193] },
@@ -111,7 +111,7 @@
     { "id": 104, "name": "Seema Singh", "hindiname": "सीमा सिंह", "realname": "Sīmā Siṃhā", "wrongname": "Sima Singh", "husband": "Ranjeet Singh", "hindihusband": "रंजीत सिंह", "realhusband": "Rañjīta Siṃha", "wronghusband": "Ranjit Singh", "gender": "F", "parent": 40, "mother": 1, "children": [220,221] },
     { "id": 105, "name": "Amit Singh", "hindiname": "अमित सिंह", "realname": "Amita Siṃha", "wrongname": "Amit Singh", "alias": "Munmun Singh", "hindialias": "मुनमुन सिंह", "realalias": "Munamuna Siṃha", "wrongalias": "Munmun Singh", "birth": "", "gender": "M", "parent": 41 },
     { "id": 106, "name": "Amita Singh", "hindiname": "अमिता सिंह", "realname": "Amitā Siṃhā", "wrongname": "Amita Singh", "alias": "Sonee Singh", "hindialias": "सोनी सिंह", "realalias": "Sonī Siṃhā", "wrongalias": "Soni Singh", "birth": "", "gender": "F", "parent": 41 },
-    { "id": 107, "name": "Ritu Singh", "hindiname": "रितु सिंह", "realname": "Ritu Siṃhā", "wrongname": "Ritu Singh", "husband": "Pappoo Singh", "hindihusband": "पप्पू सिंह", "realhusband": "Pappū Siṃha", "wronghusband": "Pappu Singh", "birth": "", "gender": "F", "parent": 42, "children": [168,169] },
+    { "id": 107, "name": "Ritu Singh", "hindiname": "रितु सिंह", "realname": "Ritu Siṃhā", "wrongname": "Ritu Singh", "husband": "Jitendra Singh", "hindihusband": "जितेन्द्र सिंह", "wronghusband": "Jitendra Singh", "gender": "F", "parent": 42, "children": [168,169] },
     { "id": 108, "name": "Pooja Singh", "hindiname": "पूजा सिंह", "realname": "Pūjā Siṃhā", "wrongname": "Puja Singh", "husband": "Vinay Singh", "hindihusband": "विनय सिंह", "realhusband": "Vinaya Siṃha", "wronghusband": "Vinay Singh", "birth": "", "gender": "F", "parent": 42, "children": [170,171] },
     { "id": 109, "name": "Rahul Singh", "hindiname": "राहुल सिंह", "realname": "Rāhula Siṃha", "wrongname": "Rahul Singh", "wife": "Aartee Singh", "hindiwife": "आरती सिंह", "realwife": "Āratī Siṃhā", "wrongwife": "Aarti Singh", "birth": "", "gender": "M", "parent": 42, "children": [172,173] },
     { "id": 110, "name": "Shanoo Singh", "hindiname": "शानू सिंह", "realname": "Śānū Siṃhā", "wrongname": "Shanu Singh", "birth": "", "gender": "F", "parent": 43 },
