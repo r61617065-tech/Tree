@@ -226,7 +226,6 @@
     { "id": 219, "name": "Ankita Singh", "hindiname": "अंकिता सिंह", "realname": "Aṅkitā Siṃhā", "wrongname": "Ankita Singh", "gender": "F", "parent": 103 },
     { "id": 220, "name": "Isha Singh", "hindiname": "इशा सिंह", "realname": "Iśā Siṃhā", "wrongname": "Isha Singh", "gender": "F", "parent": 104 },
     { "id": 221, "name": "Disha Singh", "hindiname": "दिशा सिंह", "realname": "Diśā Siṃhā", "wrongname": "Disha Singh", "gender": "F", "parent": 104 },
-    { "id": 222, "name": "Shree Singh", "hindiname": "श्री सिंह", "realname": "Śrī Siṃha", "wrongname": "Shri Singh", "gender": "F", "parent": 205 },
-    { "id": 223, "name": "Raja Abhishek Singh ", "alias": "Non Alias", "gender": "M" }
+    { "id": 222, "name": "Shree Singh", "hindiname": "श्री सिंह", "realname": "Śrī Siṃha", "wrongname": "Shri Singh", "gender": "F", "parent": 205 }
   ]
 }
